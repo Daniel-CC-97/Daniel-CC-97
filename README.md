@@ -3,7 +3,7 @@
 My name is Daniel, I am a Full Stack Software Engineer for Adventour, living in London, and I'm passionate about creating beautifully designed applications. And due to my past life as an accountant, they would need a beautifully organised database too!
 
 
-**What I'm Doing Now?
+**What I'm Doing Now?**
 - Adventour
 - F3
 - GraphQL
