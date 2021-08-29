@@ -10,5 +10,9 @@ My name is Daniel, I am a Full Stack Software Engineer for Adventour, living in 
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-![alt text](css3.svg)
-<img src='css3.svg' width='20' height='20'/>
+<img src='css3.svg' width='40' height='40'/>
+<img src='redux.svg' width='40' height='40'/>
+<img src='express.svg' width='40' height='40'/>
+<img src='javascript.svg' width='40' height='40'/>
+<img src='typescript.svg' width='40' height='40'/>
+<img src='nodedotjs.svg' width='40' height='40'/>
