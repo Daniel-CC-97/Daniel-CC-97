@@ -10,4 +10,4 @@ My name is Daniel, I am a Full Stack Software Engineer for Adventour, living in 
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-![alt text](css3.svg)
+![alt text](css3.svg =20x20)
