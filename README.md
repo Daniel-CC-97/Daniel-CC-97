@@ -4,8 +4,8 @@ My name is Daniel, I am a Full Stack Software Engineer for Adventour, living in 
 
 
 **What I'm Doing Now?**
-- Adventour
-- F3
-- GraphQL
+- Updating Adventour to allow users to create their own tours.
+- Im currently learning GraphQL from Scott Moss Front End Masters
+- Ask me about anything CSS!
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
